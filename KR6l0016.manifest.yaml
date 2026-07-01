@@ -1,0 +1,234 @@
+canonical_identifier: bkk:krp/KR6l0016/v1
+canonical_location: https://kanripo.org/bkk/KR6l0016/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿毘曇心論經
+  identifiers:
+    alt_id:
+    - T28n1551
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T28/T28n1551.xml
+    old_id: T28n1551
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 北藏-CB
+  label: 北藏-CB
+  source_xml_id: wit7
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit6
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0016_000.yaml, hash: 'sha256:83cc36c1053e2fbcc83d5ca1d6e7bbf29825a6186a2adb6a41993401c0aba728'}
+  - {seq: 1, filename: KR6l0016_001.yaml, hash: 'sha256:930a018e26bdb2dd601fb8216a2fce3ac93086a3807036ba6a0ffbaed6e96780'}
+  - {seq: 2, filename: KR6l0016_002.yaml, hash: 'sha256:468e2d83a874d10f5669be85e0fdda0d825a78f8308fb4761eb6427facd9baa7'}
+  - {seq: 3, filename: KR6l0016_003.yaml, hash: 'sha256:2b6f7d052c260db1a883a42951fbdb6f6b2f72af34eef8dd36096f88821215fb'}
+  - {seq: 4, filename: KR6l0016_004.yaml, hash: 'sha256:e3f4162c53dab305054fcaee61ce01168bd594e4e5495e5f9eff8b70167ad0de'}
+  - {seq: 5, filename: KR6l0016_005.yaml, hash: 'sha256:1a07703a06fc3624b7127e3fe045554a9f708d6b57dbdd881756f9f5ed67d983'}
+  - {seq: 6, filename: KR6l0016_006.yaml, hash: 'sha256:61179b2f529d47d238359e835aba126a0b6385cc7dcfb90f42d25a6ae07bc0b7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6l0016_000.markers.yaml, hash: 'sha256:42a1f6e7987b97d20f5eacbaf10d03c237caf6c974b46b8afc735c1e3bc5222d'}
+  - {seq: 1, role: markers, filename: assets/KR6l0016_001.markers.yaml, hash: 'sha256:50f9fbe5b4d748c56d0df8a0578714bc38456965b9a68b9c3a606159f1a439de'}
+  - {seq: 2, role: markers, filename: assets/KR6l0016_002.markers.yaml, hash: 'sha256:db18389bdf880e16b14400702e097a2f06ce3f28a7450edc3e1eb86b034ab14f'}
+  - {seq: 3, role: markers, filename: assets/KR6l0016_003.markers.yaml, hash: 'sha256:c63a04ea9b903686455fbdfcaefd226c15db355392807c6c3850c4c03e4a2f87'}
+  - {seq: 4, role: markers, filename: assets/KR6l0016_004.markers.yaml, hash: 'sha256:a101aaf9747590411302b3c2e8dcc7b7482b4e3d4a9dd5596cb986c39f9e24ed'}
+  - {seq: 5, role: markers, filename: assets/KR6l0016_005.markers.yaml, hash: 'sha256:c5fac2f9e3eb7f2958c5981313f74706dd3282ee2b4501408c41777c44515d50'}
+  - {seq: 6, role: markers, filename: assets/KR6l0016_006.markers.yaml, hash: 'sha256:b3a260a111592d43a38e384356615619420653ffb37123f0748c32fc6c2c56c5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6l0016_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0016_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7832
+  label: 阿毘曇心論經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0016_T_001-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 1 界品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0016_T_001-mulu-2
+    span:
+    - body
+    - 3952
+    - 3952
+  label: 2 行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0016_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8011
+  label: 阿毘曇心論經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0016_T_002-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 3 業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0016_T_002-mulu-2
+    span:
+    - body
+    - 5484
+    - 5484
+  label: 4 使品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0016_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8224
+  label: 阿毘曇心論經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0016_T_003-mulu-1
+    span:
+    - body
+    - 3417
+    - 3417
+  label: 5 賢聖品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0016_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7765
+  label: 阿毘曇心論經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0016_T_004-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 6 智品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0016_T_004-mulu-2
+    span:
+    - body
+    - 4989
+    - 4989
+  label: 7 定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0016_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7567
+  label: 阿毘曇心論經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0016_T_005-mulu-1
+    span:
+    - body
+    - 2355
+    - 2355
+  label: 8 修多羅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0016_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7113
+  label: 阿毘曇心論經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0016_T_006-mulu-1
+    span:
+    - body
+    - 2268
+    - 2268
+  label: 9 雜品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0016_T_006-mulu-2
+    span:
+    - body
+    - 6468
+    - 6468
+  label: 10 問論品
+  type: mulu
+  level: 1
+hash: sha256:240afff47b930c1d5c394194fb428588851470b35157da96e0df18af630c5c8f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
